@@ -1,10 +1,10 @@
 # SoftDigi Technology
 
-### Software Engineering • Full-Stack • Mobile • Backend
+### Software Engineering • AI • Full-Stack • Mobile • Backend
 
-SoftDigi Technology builds and maintains production-oriented software products across mobile, web and backend systems.
+SoftDigi Technology builds and maintains production-oriented software products across mobile, web, backend systems, and artificial intelligence.
 
-Our engineering work focuses on building reliable applications with practical architecture, REST APIs, databases, authentication, security and production deployment.
+Our engineering focuses on reliable applications, practical architecture, REST APIs, databases, application security, AI integration, and production deployment.
 
 ---
 
@@ -19,7 +19,9 @@ Our engineering work focuses on building reliable applications with practical ar
 - Admin Panels & Dashboards
 - Location-Based Features
 - Content & RSS Processing
-- AI-Powered Features
+- AI-Powered Applications
+- On-Device AI & Local LLM Inference
+- AI Integration & Intelligent Features
 - Production Deployment & Maintenance
 
 ---
@@ -27,107 +29,120 @@ Our engineering work focuses on building reliable applications with practical ar
 ## Technology Stack
 
 ### Mobile & Application Development
-
 - Flutter
 - Dart
 
 ### Backend
-
 - PHP
 - REST APIs
 
 ### Database
-
 - MySQL
 
-### Engineering
+### AI & Machine Learning
+- Large Language Models (LLMs)
+- On-Device AI Inference
+- Local AI Applications
+- llama.cpp
+- Dart FFI
+- AI-Powered Features & Integration
 
-- API-driven architecture
-- Authentication & security
-- Role-based access
-- Production deployment
-- Application maintenance
-- Performance optimization
-- Debugging and troubleshooting
+### Engineering
+- API-Driven Architecture
+- Authentication & Application Security
+- Role-Based Access Control
+- Performance Optimization
+- Software Testing & Debugging
+- Production Deployment
+- Application Maintenance
 
 ---
 
-## Featured Production Projects
+## Featured Projects
+
+### SoftDigi AI
+
+An AI-focused project exploring private, on-device language model inference on Android devices.
+
+**Engineering focus:**
+- Flutter-based Android application
+- Local LLM inference using llama.cpp
+- Dart FFI integration with native C/C++ code
+- GGUF model support
+- On-device AI processing
+- Streaming AI responses
+- Model loading and unloading
+- Local-first AI architecture
+
+The project explores running AI models directly on supported devices, reducing dependence on cloud-based inference services.
 
 ### News Xpress Live
 
-A production news platform built and maintained as an end-to-end software product.
+A news platform built and maintained as an end-to-end software product.
 
 **Key areas of engineering:**
-
 - Flutter mobile application
 - PHP backend
 - MySQL database
 - REST API architecture
-- Admin panel
-- Reporter dashboard
-- User management
-- Authentication and security
+- Admin panel and reporter dashboard
+- User management and authentication
 - Role-based access
-- Personalized news feed
+- Personalized news feeds
 - Location-based news filtering
-- News publishing workflow
-- RSS/news ingestion
+- News publishing workflows
+- RSS and news ingestion
 - Xpress feature
 - AI-powered short news summaries
 - Production deployment and maintenance
 
-The API-driven architecture is designed to allow future extension or migration to other frontend or backend technologies without requiring the entire product architecture to be rebuilt.
-
----
+The API-driven architecture supports maintainability and future extension across frontend and backend technologies.
 
 ### Arya Setu
 
-An API-driven digital platform currently under active development.
+An API-driven digital platform under active development.
 
-**Current status:**
+**Development focus:**
+- Web application
+- Mobile application development
+- Backend and API integration
+- Maintainable architecture
+- Extensible platform design
 
-- Web version is live
-- Mobile application is under development
-- Backend development is in progress
-- API-driven architecture
-- Web and mobile application development
-
-Arya Setu is being developed as a serious production-oriented software product with a focus on maintainability and extensibility.
+The project is being developed as a production-oriented software product with an emphasis on maintainability and long-term growth.
 
 ---
 
 ## Current Work
 
-We are currently focused on building and maintaining real-world software products while improving engineering practices across:
+Our current engineering work focuses on:
 
-- Backend development
-- API architecture
-- Database systems
-- Application security
-- System design
-- Performance
-- Deployment
-- AI integration
-- Production reliability
+- Full-stack and mobile application development
+- Backend services and REST API architecture
+- Database systems and application security
+- On-device AI and local LLM applications
+- AI-powered product features
+- Performance optimization
+- Software testing and reliability
+- Deployment and maintenance
 
 ---
 
 ## Engineering Interests
 
-Areas of continued engineering development include:
-
 - Data Structures & Algorithms
 - Backend Engineering
 - System Design
-- Databases
-- Networking
+- Database Systems
+- Computer Networks
 - Operating Systems
 - Cloud Computing
 - Docker & CI/CD
 - Software Testing
 - Distributed Systems
-- AI & LLM Integration
+- Artificial Intelligence
+- Large Language Models (LLMs)
+- Local AI & On-Device Inference
 
 ---
 
@@ -135,7 +150,7 @@ Areas of continued engineering development include:
 
 > Build real products, solve real problems, and continuously improve the engineering behind them.
 
-The focus is on maintainable software, practical architecture, security, reliability and long-term product development rather than simply producing code.
+We focus on maintainable software, practical architecture, privacy-conscious AI, security, reliability, and long-term product development.
 
 ---
 
@@ -156,4 +171,4 @@ The focus is on maintainable software, practical architecture, security, reliabi
 **SoftDigi Technology**  
 Basti, Uttar Pradesh, India
 
-Mobile applications • Web applications • Backend systems • APIs • Production software
+Mobile Applications • Web Applications • Backend Systems • APIs • Artificial Intelligence • On-Device AI
